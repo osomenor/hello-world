@@ -1,2 +1,5 @@
 # hello-world
-HW project from GH guide
+HW project from GitHub guide
+
+# New Header
+Some changes to readme
